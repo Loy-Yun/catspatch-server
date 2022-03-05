@@ -1,6 +1,7 @@
 # catspatch-server
 
-SpringBoot + MySQL + SQS
+#### **w. SpringBoot + MySQL + SQS** 
+<br/>
 
-- ERD
-![img.png](ERD.png)
+- ERD <br/>
+  <img alt="img_1.png" src="ERD.png" width="400"/>
