@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { UserModule } from './user/user.module';
 import { MemoModule } from './memo/memo.module';
-import { databaseConfig } from "../database.config";
+import { databaseConfig } from "../config/database.config";
 import { TypeOrmModule } from "@nestjs/typeorm";
 
 @Module({
